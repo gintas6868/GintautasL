@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.test</groupId>
-	<artifactId>spring</artifactId>
+	<artifactId>GintautasL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>spring</name>
-	<description>Demo project for Spring Boot</description>
+	<name>GintautasL</name>
+	<description>Atsiskaitymas</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
