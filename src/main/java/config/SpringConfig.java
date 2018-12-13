@@ -39,5 +39,6 @@ public class SpringConfig {
 	public UserService getUserService() {
 		return new UserServiceImpl();
 	}
-
+	//Laba diena
+	//Laba diena
 }
